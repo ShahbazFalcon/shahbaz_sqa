@@ -46,11 +46,11 @@ A dedicated, detail-oriented **Senior Software Quality Assurance Engineer** spec
 * 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-shahbaz-sharif-aaa720199/
 * 🐙 **GitHub:** https://github.com/ShahbazFalcon/
 * 🤖 **Play Store Portfolio:** 
-https://play.google.com/store/apps/dev?id=6767567676165600811
-https://play.google.com/store/search?q=pub%3APixapro.ai&c=apps&hl=en_US
-https://play.google.com/store/search?q=pub%3ASquad%20Apps%20Studio&c=apps&hl=en_US
-https://play.google.com/store/search?q=pub%3ASigma%20Delta%20Apps&c=apps&hl=en_US
-https://play.google.com/store/apps/dev?id=7277513458183393295&hl=en_US
-https://play.google.com/store/apps/developer?id=KiKS&hl=en_US
-https://play.google.com/store/apps/developer?id=Sapphire+Global+Tech+Ltd&hl=en_US
-https://play.google.com/store/apps/developer?id=Canvas+art+Text+on+Photo+%26+Video&hl=en_US
+* https://play.google.com/store/apps/dev?id=6767567676165600811
+* https://play.google.com/store/search?q=pub%3APixapro.ai&c=apps&hl=en_US
+* https://play.google.com/store/search?q=pub%3ASquad%20Apps%20Studio&c=apps&hl=en_US
+* https://play.google.com/store/search?q=pub%3ASigma%20Delta%20Apps&c=apps&hl=en_US
+* https://play.google.com/store/apps/dev?id=7277513458183393295&hl=en_US
+* https://play.google.com/store/apps/developer?id=KiKS&hl=en_US
+* https://play.google.com/store/apps/developer?id=Sapphire+Global+Tech+Ltd&hl=en_US
+* https://play.google.com/store/apps/developer?id=Canvas+art+Text+on+Photo+%26+Video&hl=en_US

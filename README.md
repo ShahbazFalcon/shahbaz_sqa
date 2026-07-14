@@ -45,7 +45,8 @@ A dedicated, detail-oriented **Senior Software Quality Assurance Engineer** spec
 ## 📫 Connect With Me
 * 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-shahbaz-sharif-aaa720199/
 * 🐙 **GitHub:** https://github.com/ShahbazFalcon/
-* 🤖 **Play Store Portfolio:** 
+  
+  🤖 **Play Store Projects:** 
 * https://play.google.com/store/apps/dev?id=6767567676165600811
 * https://play.google.com/store/search?q=pub%3APixapro.ai&c=apps&hl=en_US
 * https://play.google.com/store/search?q=pub%3ASquad%20Apps%20Studio&c=apps&hl=en_US
